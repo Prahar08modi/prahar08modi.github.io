@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Prahar Modi</title>
-    <link>https://prahar08modi.github.io/tags/</link>
+    <link>https://praharmodi.com/tags/</link>
     <description>Recent content in Tags on Prahar Modi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://prahar08modi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://praharmodi.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>example</title>
-      <link>https://prahar08modi.github.io/tags/example/</link>
+      <link>https://praharmodi.com/tags/example/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
       
-      <guid>https://prahar08modi.github.io/tags/example/</guid>
+      <guid>https://praharmodi.com/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown syntax</title>
-      <link>https://prahar08modi.github.io/tags/markdown-syntax/</link>
+      <link>https://praharmodi.com/tags/markdown-syntax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
       
-      <guid>https://prahar08modi.github.io/tags/markdown-syntax/</guid>
+      <guid>https://praharmodi.com/tags/markdown-syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathjax</title>
-      <link>https://prahar08modi.github.io/tags/mathjax/</link>
+      <link>https://praharmodi.com/tags/mathjax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
       
-      <guid>https://prahar08modi.github.io/tags/mathjax/</guid>
+      <guid>https://praharmodi.com/tags/mathjax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sample</title>
-      <link>https://prahar08modi.github.io/tags/sample/</link>
+      <link>https://praharmodi.com/tags/sample/</link>
       <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
       
-      <guid>https://prahar08modi.github.io/tags/sample/</guid>
+      <guid>https://praharmodi.com/tags/sample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emoji support</title>
-      <link>https://prahar08modi.github.io/tags/emoji-support/</link>
+      <link>https://praharmodi.com/tags/emoji-support/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>https://prahar08modi.github.io/tags/emoji-support/</guid>
+      <guid>https://praharmodi.com/tags/emoji-support/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Placeholder text</title>
-      <link>https://prahar08modi.github.io/tags/placeholder-text/</link>
+      <link>https://praharmodi.com/tags/placeholder-text/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       
-      <guid>https://prahar08modi.github.io/tags/placeholder-text/</guid>
+      <guid>https://praharmodi.com/tags/placeholder-text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rich content</title>
-      <link>https://prahar08modi.github.io/tags/rich-content/</link>
+      <link>https://praharmodi.com/tags/rich-content/</link>
       <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
       
-      <guid>https://prahar08modi.github.io/tags/rich-content/</guid>
+      <guid>https://praharmodi.com/tags/rich-content/</guid>
       <description></description>
     </item>
     
